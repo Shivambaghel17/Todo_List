@@ -1,0 +1,19 @@
+.dis {
+  display: flex;
+  font-size: 25px;
+  align-items: center;
+  justify-content: center;
+}
+i {
+  margin-left: 10px;
+  color: green;
+  margin-top: 6px;
+}
+
+i:hover {
+  color: red;
+}
+
+li {
+  margin-top: 10px;
+}
